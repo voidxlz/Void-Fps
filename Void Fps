@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/voidxlz/Void-Fps/main/VoidFPS.lua", true))()
